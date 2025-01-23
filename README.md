@@ -7,17 +7,12 @@
 h1 {color: rgb(255, 165, 0);
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
-
-
 h3 {COLOR:rgb(0, 139, 139);
   text-decoration: underline wavy; 
    text-decoration-color: blue;
    text-align: center;
    letter-spacing: 4px;
 }
-
-
-
 h4 {
 color: rgb(123, 104, 238);
 text-align: center;
